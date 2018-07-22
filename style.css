@@ -1,0 +1,16 @@
+/* General Styles */
+body { font-family: Montserrat !important; }
+
+div#calculatorContainer {  }
+
+/* Table Styles */
+table.table{ display: inline; border-radius: 20px; }
+table.table > tbody { background-color: #34495E; }
+table.table > tbody > tr > td button.btn { font-weight: bold; }
+
+/* Input Styles */
+input[type='text']{ direction: rtl; }
+label#calculationContainer{ display: block; }
+
+/* Button Styles */
+button { width: 100%;}
